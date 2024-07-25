@@ -1,0 +1,4 @@
+print("Halo, Selamat Datang. Silahkan masukkan nama anda")
+nama = input()
+
+print(f'Selamat Datang {nama} di Sistem Kami')
